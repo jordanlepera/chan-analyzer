@@ -71,4 +71,5 @@ def main():
   countMentionInBoard(board)
   print("\nEnd of analyze\n")
   print("Number of mentions for keyword \"" + token + "\" in board \"" + board + "\": " + str(mention_count))
+
 main()
