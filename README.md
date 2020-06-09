@@ -1,11 +1,11 @@
 # chan-analyzer
 
-## requirements
+## Requirements
 
 * pipenv
 * python 3.5+
 
-## usage
+## Usage
 
 ```
 pipenv install
